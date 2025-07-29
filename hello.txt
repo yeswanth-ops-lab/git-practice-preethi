@@ -1,1 +1,2 @@
 i have started the day2 git course
+Hello, Git!,Hello,world!
